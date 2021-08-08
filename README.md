@@ -13,3 +13,9 @@ Awesome Artefacts on SGX Systems and Services
 - Manufacturer can authenticate each TEE and provide remote attestation to a user.
 - This is to confirm that the untampered program is actually running on a genuine TEE.
 - Even if the machine is physically located in an off-site data center.
+
+## Functional Architecture
+- TEEs allow us to execute any state update without sharing data with the blockchain validators
+
+## Relevant Usecases 
+- 
