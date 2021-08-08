@@ -19,3 +19,7 @@
 ## SGX Systemics 
 - SGX allow user-level as well as operating system code to define private regions of memory, called enclaves,
 - Contents of Enclave are protected and unable to be either read or saved by any process outside the enclave itself.
+
+## SGX and Sidechannel Attacks
+- Applications running inside of SGX must be written to be side channel resistant 
+- SGX does not protect against side channel measurement or observation.
