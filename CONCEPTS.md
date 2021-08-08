@@ -1,11 +1,15 @@
 # Engineering Elements
 
 ## Enclave Engineering
-- An Enclave is a portion of memory
-- An Enclave code can be invoked by special instructions.
-- An Enclave can be built and loaded as a shared object on Linux OS
-- An Enclave file can be disassembled
-- An Enclave contents can be encrypted on the fly
+- Enclave is a portion of memory
+- Enclave code can be invoked by special instructions.
+- Enclave can be built and loaded as a shared object on Linux OS
+- Enclave file can be disassembled
+- Enclave contents can be encrypted on the fly
+- Enclave Image is statistically linked object under LinuxOS
+- Enclave has an entry point to execution
+- Every Enclave will have a heap size
+- Every Enclave will have a few object files to be linked to the target enclave
 
 ## Enclave Execution
 - Data stored in the enclave can be opened and decrypted within the SGX enclave on the Intel Xeon processor
