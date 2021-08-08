@@ -1,4 +1,4 @@
-# awesome-sgx-solutions
+# awesome-sgx-applications
 Awesome Artefacts on SGX Systems and Services
 
 ## Technology Architecture
