@@ -26,3 +26,11 @@ Awesome Artefacts on SGX Systems and Services
 - Remote computation
 - Digital Rights Management
 - Concealment of Proprietry Algorithms
+
+## SGX Extention SDK Tools
+- Edger8 Tool ( Generates interfaces between untrusted components and enclaves
+- Enclave Signing Tool ( Generates the enclave metadata that includes the enclave signature
+- Enclave Debugger
+- Performance Measurement VTune Amplifier
+- Enclave Memory Measurement Tool
+- CPUSVN Configuration Tool
