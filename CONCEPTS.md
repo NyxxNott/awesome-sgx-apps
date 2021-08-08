@@ -27,3 +27,6 @@
 ## SGX and Sidechannel Attacks
 - Applications running inside of SGX must be written to be side channel resistant 
 - SGX does not protect against side channel measurement or observation.
+
+## SGX Data Transfer Mode between Trusted and UnTrusted Components
+- Data has to be copied from and to the enclave because enclave memory cannot be read directly outside of the enclave. 
