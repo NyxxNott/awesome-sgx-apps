@@ -10,7 +10,6 @@
 - Processor Base Frequency - 
 - Processor Cache
 - Sockets Supported
-- Number of Cores
 - Number of Threads
 - Instruction Set
 
