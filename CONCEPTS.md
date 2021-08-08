@@ -1,6 +1,7 @@
 # Engineering Elements
 
 ## Enclave Engineering
+- An Enclave is a portion of memory
 - An Enclave code can be invoked by special instructions.
 - An Enclave can be built and loaded as a shared object on Linux OS
 - An Enclave file can be disassembled
@@ -14,4 +15,6 @@
 - The system calls has to be done by the applications connected to the enclave via kernel driver
 - To execute the intel SGX commands and run in an enclave, code must be signed and verified with a developer key
 
-## 
+## SGX Systemics 
+- SGX allow user-level as well as operating system code to define private regions of memory, called enclaves,
+- Contents of Enclave are protected and unable to be either read or saved by any process outside the enclave itself.
