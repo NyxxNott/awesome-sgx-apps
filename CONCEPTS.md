@@ -30,3 +30,6 @@
 
 ## SGX Data Transfer Mode between Trusted and UnTrusted Components
 - Data has to be copied from and to the enclave because enclave memory cannot be read directly outside of the enclave. 
+
+## SGX Bridge Function
+- A bridge function at the enclave entry point dispatches calls to the corresponding functions inside the enclave.
