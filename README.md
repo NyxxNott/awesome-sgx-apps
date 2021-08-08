@@ -18,4 +18,6 @@ Awesome Artefacts on SGX Systems and Services
 - TEEs allow us to execute any state update without sharing data with the blockchain validators
 
 ## Relevant Usecases 
-- 
+- Private token transfers, 
+- Private smart contracts 
+- Private state channels 
