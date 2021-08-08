@@ -21,3 +21,8 @@ Awesome Artefacts on SGX Systems and Services
 - Private token transfers, 
 - Private smart contracts 
 - Private state channels 
+
+## Broader Usecases
+- Remote computation
+- Digital Rights Management
+- Concealment of Proprietry Algorithms
