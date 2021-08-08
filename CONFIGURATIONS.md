@@ -5,23 +5,14 @@
 - Only the BIOS can make changes to the IA32_Feature_Control.
 
 # Configuration Parameters
-- Number of Cores
-- Maximum Turbo Frequency
-- Processor Base Frequency
+- Number of Cores - 8 
+- Maximum Turbo Frequency - 3.9 GHz
+- Processor Base Frequency - 
 - Processor Cache
 - Sockets Supported
 - Number of Cores
 - Number of Threads
 - Instruction Set
-- Lithography
-- Maximum Memory Set
-- Maximum Number of PCI Express Lanes
-- Support for Intel Optane DC Persistent Memory
-- Support for ECC Memory
-- Support for Turbo Boost
-- Support for Hyper Threading
-- Support for Quick Sync
-- Support for AES New Instructions
-- Support for Demand Based Switching
-- Intel SPS Enabled
-- Intel ME Enabled
+
+# Comparison of Models
+- https://ark.intel.com/content/www/us/en/ark/compare.html?productIds=191033,195323
